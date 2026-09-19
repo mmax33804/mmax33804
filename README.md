@@ -9,9 +9,9 @@
 
 | Проект | Платформа | Ссылка |
 | :--- | :--- | :--- |
-| **Condé Nast Traveller** | Web / Mobile | [Смотреть на Behance](https://www.behance.net/gallery/215594433/CONDE-NAST-TRAVELLER-(-UXUI-)) |
-| **Lego App** | iOS / Android | [Смотреть на Behance](https://www.behance.net/gallery/211650341/Redesign-Lego-UXUI) |
-| **Acer UI Capture** | Web App | [Смотреть на GitHub](https://github.com/mmax33804/Capture-ui) |
+| **Condé Nast Traveller** | Web (Design) / Mobile adaptive (Design) | [Смотреть на Behance](https://www.behance.net/gallery/215594433/CONDE-NAST-TRAVELLER-(-UXUI-)) |
+| **Lego App** | Web (Design) / Mobile adaptive (Design) | [Смотреть на Behance](https://www.behance.net/gallery/211650341/Redesign-Lego-UXUI) |
+| **UI Capture** | Web App | [Смотреть на GitHub](https://github.com/mmax33804/Capture-ui) |
 
 
 ---
