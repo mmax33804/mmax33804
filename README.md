@@ -1,35 +1,33 @@
-# ✦ Портфолио UX/UI Дизайнера
+**✦ Портфолио UX/UI Дизайнера**
 
-Привет! Меня зовут Максим и я UX/UI дизайнер.
+Привет! Меня зовут Максим и я UX/UI дизайнер.  
 Моя специализация — это превращение сложных и запутанных задач в простые и понятные интерфейсы.
 
 ---
 
-### 📂 Дизайн Проекты
+**📂 Дизайн Проекты**
 
 | Проект | Платформа | Ссылка |
 | :--- | :--- | :--- |
 | **Condé Nast Traveller redesign** | Web (Design) / Mobile adaptive (Design) | [Смотреть на Behance](https://www.behance.net/gallery/215594433/CONDE-NAST-TRAVELLER-(-UXUI-)) |
 | **Lego redesign** | Web (Design) / Mobile adaptive (Design) | [Смотреть на Behance](https://www.behance.net/gallery/211650341/Redesign-Lego-UXUI) |
-| **Acer redeign** | Web (Design) / Mobile adaptive (Design) | [Смотреть на Behance](https://www.behance.net/gallery/204356821/ACER-TEHNOLOGY-(-REDESIGN-)) |
+| **Acer redesign** | Web (Design) / Mobile adaptive (Design) | [Смотреть на Behance](https://www.behance.net/gallery/204356821/ACER-TEHNOLOGY-(-REDESIGN-)) |
 | **UI Capture** | Web App | [Смотреть на GitHub](https://github.com/mmax33804/Capture-ui) |
-
 
 ---
 
-### 🛠 Технологический Стек
+**🛠 Технологический Стек**
 
 - **HTML5 & CSS3** (Flexbox, Grid, Custom Properties)
 - **Vanilla JavaScript** (База)
 
-
 ---
 
-### 🎨 Философия Дизайна
+**🎨 Философия Дизайна**
 
 > *"Хороший дизайн — это как можно меньше дизайна."*
 
-Это портфолио создано так,  позволяя самим работам говорить за себя.
+Это портфолио создано так, позволяя самим работам говорить за себя.
 
 ---
 
