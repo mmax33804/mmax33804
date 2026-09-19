@@ -15,13 +15,6 @@
 | **Acer redesign** | Web (Design) / Mobile adaptive (Design) | [Смотреть на Behance](https://www.behance.net/gallery/204356821/ACER-TEHNOLOGY-(-REDESIGN-)) |
 | **UI Capture** | Web App | [Смотреть на GitHub](https://github.com/mmax33804/Capture-ui) |
 
----
-
-<big><b>🛠 Технологический Стек</b></big>
-<br><br>
-
-- **HTML5 & CSS3** (Flexbox, Grid, Custom Properties)
-- **Vanilla JavaScript** (База)
 
 ---
 
