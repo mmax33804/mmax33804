@@ -33,5 +33,5 @@
 
 <div align="center">
   <a href="https://www.behance.net/mmax33804">Behance</a> • 
-  <a href="https://github.com/mmax33804">GitHub</a> • 
+  <a href="https://github.com/mmax33804">GitHub</a> 
 </div>
